@@ -1,0 +1,28 @@
+button:hover{
+    box-shadow: 0px 0px 5px #0f0,0px 0px 30px #0f0,0px 0px 90px #0f0
+    
+    
+    ;
+}
+button{
+    background-color: #000;
+    color: aliceblue;
+    border-radius:50% ;
+}
+.container{
+   border: black 2.5px solid;
+    width:100px;
+    height:auto;
+    background-color: lightcyan;
+    border-radius: 5px;
+}
+#d1{
+    max-width: 93.5px;
+    border-radius: 5px;
+    height: 40px;
+    background-color: rgb(143, 184, 184);
+}
+button{
+    padding:auto;
+    margin: 2.5px;
+}
